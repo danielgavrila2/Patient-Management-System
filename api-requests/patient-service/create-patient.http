@@ -1,0 +1,13 @@
+### POST test for creating a new client
+POST http://localhost:4000/patients
+Content-Type: application/json
+
+{
+  "name": "Daniel Gavrila bill new22BUN1222",
+  "email": "danielgavrila2billNEW22@gma1il.comBUN1222",
+  "address": "codrului 4",
+  "dateOfBirth": "2004-11-15",
+  "registeredDate": "2025-04-14"
+}
+
+###
