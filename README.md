@@ -34,7 +34,7 @@ This project aims to solve complex problems in the medical domain by offering a 
 - **Cloud Infrastructure** — Built from scratch using IaC principles and deployed to AWS (tested with LocalStack emulator).
 - **Authentication & Authorization** — JWT tokens and Spring Security implemented to protect all microservices.
 - **Scalability** — Designed to easily scale horizontally by adding more instances of services.
-
+- **API Gateway** — A single entry point for all client requests, managing routing, load balancing, authentication, and rate limiting.
 ---
 
 ## Deployment ☁️
